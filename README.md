@@ -20,8 +20,8 @@ The repository is organized to help you easily find all resources related to eac
     - **session-2/**
     - ...
   - **module-2/**
-    - **session-1/**
-    - **session-2/**
+    - **session-5/**
+    - **session-6/**
     - ...
   - ...
 
