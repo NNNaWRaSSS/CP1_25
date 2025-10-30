@@ -8,4 +8,7 @@ add_executable(t2 mt-example.c)
 add_executable(t3 order_violation.c)
 add_executable(t4 order_violation_solution.c)
 add_executable(t5 thread.c)
-
+add_executable(t6 SharedResources.c)
+add_executable(t thread_m.c)
+add_executable(p process_m.c)
+add_executable(c Cond.c)

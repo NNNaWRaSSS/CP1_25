@@ -7,6 +7,10 @@ void * workerThreadFunc(void * tid){
   long * myID = (long *) tid;
   printf("HELLO WORLD! THIS IS THREAD %ld\n",*myID);
 
+  sleep(2);
+
+  printf("BYE BYE WORLD! THIS IS THE END OF THREAD %ld\n",*myID);
+
 };
 
 int main()
