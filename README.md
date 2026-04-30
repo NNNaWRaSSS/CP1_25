@@ -45,6 +45,7 @@ This course emphasizes:
 ## Support
 
 If you have questions, please contact me :)
+suzant@faculty.ie.edu
 
 ---
 
